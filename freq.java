@@ -1,6 +1,5 @@
 package recur_interview;
-
-public class freq {
+ public class freq {
       public static void main(String []arr){
                 int ar[]={1,1,1,2,2,3};
             int count[]=new int[10];
